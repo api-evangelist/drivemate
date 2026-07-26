@@ -1,0 +1,22 @@
+# Drivemate
+
+> Drivemate is a peer-to-peer car-sharing and car-rental marketplace based in Bangkok, Thailand (founded 2016). Owners list their vehicles and renters book directly through the Drivemate mobile app and website, with more than 3,000 vehicles across 35 Thai provinces and over 100,000 community members. Drivemate is a consumer mobility marketplace and does not currently publish a public developer API program.
+
+## Company
+
+- [Website](https://drivemate.asia): Drivemate car-rental marketplace (Thailand)
+- [LinkedIn](https://www.linkedin.com/company/drivemate): Company profile
+- [Crunchbase](https://www.crunchbase.com/organization/drivemate): Funding and company data
+
+## Apps
+
+- [Google Play (Drivemate)](https://play.google.com/store/apps/details?id=com.thaivp.drivemate.dm_app_mobile_v2): Android app for renting and sharing cars in Thailand
+
+## Network
+
+- [API Evangelist profile](https://raw.githubusercontent.com/api-evangelist/drivemate/refs/heads/main/apis.yml): APIs.json record for Drivemate
+
+## Notes
+
+- No public developer API, OpenAPI/AsyncAPI specification, SDK, CLI, MCP server, or /.well-known discovery surface was found for the drivemate.asia property as of 2026-07-18.
+- Domain-security posture (TLS, HSTS, SPF, DMARC) is captured in security/drivemate-domain-security.yml.

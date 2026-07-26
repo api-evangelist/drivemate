@@ -1,7 +1,18 @@
 aid: drivemate
 name: Drivemate
-description: Drivemate is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Drivemate is a peer-to-peer car-sharing and car-rental marketplace based in
+  Bangkok, Thailand, founded in 2016. The platform lets vehicle owners list their
+  cars and lets travelers and residents rent directly from those owners through
+  the Drivemate mobile app and website, handling booking, verification, insurance
+  and payments end to end. Drivemate operates one of the largest car-rental
+  selections in Thailand with more than 3,000 vehicles across 35 provinces and a
+  community of over 100,000 users, and has raised Series A funding from investors
+  including 500 Global (500 Startups), NetSol, Isuzu UNT and Colopl Next. This API
+  Evangelist profile tracks the company's public digital and developer surface;
+  Drivemate is a consumer mobility marketplace and does not currently publish a
+  public developer API program, so this record captures identity, distribution and
+  domain-security signals rather than API specifications.
 url: https://raw.githubusercontent.com/api-evangelist/drivemate/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +20,31 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://play-lh.googleusercontent.com/JKrlBbbhBQI08Zlp1xTlOeL_mGCesnCVn6JXtVpdjye7oESFWDIW7uot5CmceiMEoAIAtiU951X_COaxwpuA
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Car Sharing
+- Car Rental
+- Mobility
+- Peer-to-Peer
+- Marketplace
+- Transportation
+- Automotive
+- Thailand
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +54,18 @@ maintainers:
 common:
 - type: Website
   url: https://drivemate.asia
+- type: LinkedIn
+  url: https://www.linkedin.com/company/drivemate
+- type: Crunchbase
+  url: https://www.crunchbase.com/organization/drivemate
+- type: GooglePlay
+  url: https://play.google.com/store/apps/details?id=com.thaivp.drivemate.dm_app_mobile_v2
+- type: DomainSecurity
+  url: security/drivemate-domain-security.yml
+- type: LLMsTxt
+  url: llms/drivemate-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
