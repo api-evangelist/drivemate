@@ -42,6 +42,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://drivemate.asia', status: 301, note: 'declared website redirects to https://drivematethailand.com/ — a different registrable domain (drivemate.asia -> drivematethailand.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://play-lh.googleusercontent.com/JKrlBbbhBQI08Zlp1xTlOeL_mGCesnCVn6JXtVpdjye7oESFWDIW7uot5CmceiMEoAIAtiU951X_COaxwpuA
 specificationVersion: '0.23'
 created: '2026-07-17'
