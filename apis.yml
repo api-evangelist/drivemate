@@ -47,7 +47,7 @@ accessModel:
 image: https://play-lh.googleusercontent.com/JKrlBbbhBQI08Zlp1xTlOeL_mGCesnCVn6JXtVpdjye7oESFWDIW7uot5CmceiMEoAIAtiU951X_COaxwpuA
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 tags:
 - Company
 - Car Sharing
@@ -65,6 +65,8 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://drivematethailand.com/blog/
+  type: Blog
 - type: Website
   url: https://drivemate.asia
 - type: LinkedIn
